@@ -1,0 +1,11 @@
+Sample Test Case for Coding Assignment 
+
+1. Verify whether user is able to create a fixed memory store for single user
+2. Verify whether user is able to create a fixed memory store for multiple user
+3. Verify whether the created memory is capable to store a list of song-user pairs, with each song linked to single user
+4. Verify whether the created memory is capable to store a list of song-user pairs, with each song linked multiple user
+5. Verify whether the songs are stored in the same order as played by the user
+6. Verify whether it automatically eliminates the first recently played song if a new song is played when the store memory becomes full
+7. Verify whether it does not automatically eliminates the first recently played song when the store memory is not full
+8. verify whether the first recently played song is added to last in playlist when played again
+9. verify whetehr user is able to fetch recently played songs based on the user song selection
